@@ -1,0 +1,149 @@
+body{
+@media only screen and (max-width: 767px)
+    font-size: 12px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0em;
+    font-family: "SF Pro Text","Myriad Set Pro",system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI","SF Pro Icons","Apple Legacy Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-right: 2%;
+    display: inline-block;
+}
+
+.container{
+	width:80%;
+	margin: auto;
+	overflow:hidden;
+}
+
+#main-header{
+	background-color: #444;
+	color: #fff;
+	max-width: 100%;
+	padding: 1px 20px;
+	padding-right: 2%;
+}
+  
+#main-header h5{
+	@media only screen and (max-width: 767px)
+    max-width: 100%;
+    margin-bottom: 12px;
+    font-weight: 400;
+}
+
+#my-form{
+	background-color: #444;
+	color: #fff;
+}
+
+.button{
+	background-color: blue;
+	color: #fff;
+}
+
+#navbar{
+	background-color:#000;
+	color:#fff;
+}
+
+#navbar ul{
+	padding:0px;
+	list-style:none;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color: #fff;
+	text-decoration: none;
+	font-size:16px;
+	padding-right:50px;
+}
+
+#navbarr{
+        background-color: #f4f4f4;
+        color: #000;
+}
+
+#showcase{
+	color:#000;
+	font-size:30px;
+	line-height:0;
+	padding-top: 40px;
+	text-align:center;
+}
+.image{
+	margin-top:none;
+}
+
+#showcasee{
+	background-image: url(../images/images.jpeg);
+	background-position: center top;
+	min-height: 300px;
+	margin-bottom: 30px;
+	text-align: center;
+
+	background-repeat: no-repeat;
+}
+
+#showcasee{
+	color:#000;
+	font-size:20px;
+	line-height:1.1em;
+	padding-top: 40px;
+	text-align:center;
+	
+}
+
+#showcasee h1{
+	color: pink;
+}
+
+
+#showcasee h2{
+	color: #fff;
+}
+
+#mainbar{
+	background-color: #f4f4f4;
+	color: #000;
+	font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.block{
+	font-size: 12px;
+	font-weight: 100;
+	float: left;
+	width: 20%;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+.clr{
+	clear: both;
+}
+
+#main-footer{
+	box-sizing: border-box;
+}
+
+#main-footer ul{
+	padding: 0;
+	list-style: none;
+}
+
+#main-footer li{
+	display: inline;
+}
+
+#main-footer a{
+	color: #000;
+	text-decoration: none;
+	font-size: 12px;
+	padding-right: 60px;
+}
