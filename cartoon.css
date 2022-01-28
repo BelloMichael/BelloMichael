@@ -54,7 +54,7 @@ svg:hover .super{
 
 .rental{
 	fill:yellow;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 
@@ -65,7 +65,7 @@ svg:hover .rental{
 
 .ox{
 	fill:green;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 
@@ -76,7 +76,7 @@ svg:hover .ox{
 
 .boat{
 	fill:green;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 
@@ -87,7 +87,7 @@ svg:hover .boat{
 
 .eng{
 	fill:red;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 
@@ -98,7 +98,7 @@ svg:hover .eng{
 
 .does{
 	fill:red;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 
@@ -109,7 +109,7 @@ svg:hover .does{
 
 .millet{
 	fill:orange;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 svg:hover .millet{
@@ -120,7 +120,7 @@ svg:hover .millet{
 
 .make{
 	fill:brown;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 svg:hover .make{
@@ -130,7 +130,7 @@ svg:hover .make{
 
 .ben{
 	fill:brown;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 svg:hover .ben{
@@ -140,7 +140,7 @@ svg:hover .ben{
 
 .maths{
 	fill:brown;
-	transition:transform .7s;
+	transition:all 1.3s;
 }
 
 svg:hover .maths{
